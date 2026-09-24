@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Laveenarasu A 👋
 
-<!--
-**laveenrep/laveenrep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.E. Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+I'm a Computer Science student interested in software development, backend development, web applications, and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- Python
+- Java
+- C
+- JavaScript
+- React.js
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
+- REST APIs
+- Git & GitHub
+- Docker
+
+## 🚀 Projects
+
+### BidGuard AI
+
+AI-Powered Tender & Bid Compliance Monitoring System
+
+**Technologies:** React.js • FastAPI • Python • PostgreSQL • REST APIs • Docker
+
+[View Project](https://github.com/laveenrep/bidguard-ai)
+
+## 🏆 Hackathon
+
+**Smart India Hackathon 2026 — Participant**
+
+Worked with a student team on developing a technology solution for a real-world problem statement.
+
+## 🎯 Career Goal
+
+Seeking software development internship opportunities where I can apply my programming skills and continue learning through real-world projects.
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/laveenarasu-a-7bb62732b/)
+- [GitHub](https://github.com/laveenrep)
+- Email: laveenpvt@gmail.com
