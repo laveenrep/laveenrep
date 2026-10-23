@@ -10,9 +10,7 @@ I'm a Computer Science student interested in software development, backend devel
 - Java
 - C
 - JavaScript
-- React.js
 - FastAPI
-- PostgreSQL
 - SQLAlchemy
 - REST APIs
 - Git & GitHub
