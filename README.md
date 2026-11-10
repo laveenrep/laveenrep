@@ -30,11 +30,11 @@ AI-Powered Tender & Bid Compliance Monitoring System
 
 **Smart India Hackathon 2026 — Participant**
 
-Worked with a student team on developing a technology solution for a real-world problem statement.
+I have worked on the smart India hackathon 2026 and obtained knowledge about solving real world problems.
 
 ## 🎯 Career Goal
 
-Seeking software development internship opportunities where I can apply my programming skills and continue learning through real-world projects.
+Seeking software development internship opportunities where I can apply my programming skills and continue gaining knowledge through real-world projects.
 
 ## 📫 Connect With Me
 
