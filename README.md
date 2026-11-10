@@ -30,7 +30,7 @@ AI-Powered Tender & Bid Compliance Monitoring System
 
 **Smart India Hackathon 2026 — Participant**
 
-I have worked on the smart India hackathon 2026 and obtained knowledge about solving real world problems.
+I have worked on the smart India hackathon 2026 with a crew and obtained knowledge about solving real world problems.
 
 ## 🎯 Career Goal
 
